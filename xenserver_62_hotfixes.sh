@@ -10,3 +10,5 @@ updateUrl=$4
 #./xenserver_hotfix.sh $username $password $hostname http://support.citrix.com/servlet/KbServlet/download/35140-102-705624/XS62E002.zip
 #./xenserver_hotfix.sh $username $password $hostname http://support.citrix.com/servlet/KbServlet/download/34977-102-705578/XS62E001.zip
 ./xenserver_hotfix.sh $username $password $hostname http://downloadns.citrix.com.edgesuite.net/akdlm/8707/XS62ESP1.zip
+./xenserver_hotfix.sh $username $password $hostname http://downloadns.citrix.com.edgesuite.net/akdlm/8736/XS62E014.zip
+./xenserver_hotfix.sh $username $password $hostname http://downloadns.citrix.com.edgesuite.net/akdlm/8737/XS62ESP1002.zip
